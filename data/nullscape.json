@@ -1,31 +1,11 @@
-[
-    {
-        "id": 135822871,
-        "name": "nullscape ahh",
-        "author": "mcproplayr067",
-        "creators": ["mcproplayr067"],
-        "verifier": "mcproplayr067",
-        "verification": "https://youtu.be/8bbzne7AslY",
-        "percentToQualify": 56,
-        "password": "Not Copyable",
-        "records": [
-            {
-                "user": "mcproplayr067",
-                "link": "",
-                "percent": 100,
-                "hz": 144
-            }
-        ]
-    },
-    {
-        "id": 135762476,
-        "name": "waev",
-        "author": "eckocc",
-        "creators": ["eckocc"],
-        "verifier": "eckocc",
-        "verification": "https://www.youtube.com/watch?v=e1RCQrSDjvw",
-        "percentToQualify": 0,
-        "password": "Not Copyable",
-        "records": []
-    }
-]
+{
+    "id": 135822871,
+    "name": "nullscape",
+    "author": "mcproplayr067",
+    "creators": ["mcproplayr067"],
+    "verifier": "mcproplayr067",
+    "verification": "https://youtu.be/8bbzne7AslY",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": []
+}
